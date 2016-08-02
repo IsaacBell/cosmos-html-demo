@@ -22,9 +22,9 @@
     <![endif]-->
   </head>
   <body>
-    <a href="http://outerhavenrecords.com" target="_blank" class="signature">Back to Outer Haven</a>
+    <!-- <a href="http://outerhavenrecords.com" target="_blank" class="signature">Back to Outer Haven</a> -->
     <canvas id="myCanvas"></canvas>
-    <button class="explore">Return<span class="icon-right"></span><span class="icon-right after"></span></button>
+    <!-- <button class="explore">Return<span class="icon-right"></span><span class="icon-right after"></span></button> -->
   
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript" src="js/canvas.js"></script>
